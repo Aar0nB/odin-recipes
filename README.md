@@ -1,5 +1,5 @@
-This is a project I am doing as a part of "The Odin Project"
-I will demonstrate what I have learned about HTML.
+This is a project is a part of "The Odin Project"
+This project will demonstrate topics taught about the basics of HTML.
 Such as:
 -Elements and Tags
 -HTML Boilerplate
